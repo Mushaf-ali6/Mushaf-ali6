@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hello, I'm M. Mushaf Ali! 👋<br>🛡️ Full-Stack Cyber-Security Creative & Web Dev | 🎨 Graphic Designer | Building an Interactive Hacking Lab & Community Event Platform | ♟️ Chess Enthusiast & Lifelong Learner | IT Student |<br><br>    "My mission is to be recognized through the value I provide, sharing knowledge to empower others while building bridges between diverse communities."<br><br>🛡️ Current Missions (Projects)<br>I am currently channeling my expertise into two major platforms designed to solve real-world accessibility gaps:<br>    [Community Nexus] Event Management Platform<br>    The Vision: A transparent space where people can discover, reach, and attend events across multiple communities to understand the "truth" and reality of different cultures.<br>    [Cyber-Ed Interactive] Cybersecurity Learning Platform<br>    The Vision: Making security education accessible to everyone (IT and non-IT alike).<br>    The Tech: Features a virtualized hacking experience directly in the browser, real-time content updates, and structured learning based on industry-standard attack and defense counter-measures.<br>    <br>    🔧 The Toolkit<br>Field | Capabilities<br>Cybersecurity | Ethical Hacking, Defensive Counter-measures, Kali Linux<br>Development | Front-End Web Dev (UI/UX Focused), Visual Studio Code<br>Creative | Professional Graphic Design, Visual Identity<br><br>🌱 Beyond the Terminal<br>	📚 Bookworm: I’m a passionate reader of both fiction and non-fiction. I believe every book is a new perspective gained.<br>	♟️ Chess Enthusiast: I love the strategy of the game—it’s how I sharpen my analytical thinking for both code and security.<br>	🤝 Networking: I’m always looking to connect, share knowledge, and learn from the experiences of others.<br><br>📬 Let's Connect!<br>Currently Learning: Advanced real-time security protocols and community-driven UX.
 
-<!--
-**Mushaf-ali6/Mushaf-ali6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@mushafali8357) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushafeiy@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mushaf-ali6&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mushaf-ali6&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mushaf-ali6&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mushaf-ali6&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
